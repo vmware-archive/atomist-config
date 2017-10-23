@@ -1,0 +1,30 @@
+{
+  "configuration": {
+    "push": {
+      "configuration": {
+        "emoji-style": "default",
+        "fingerprints": {
+          "about-hint": "true",
+          "render-unchanged": "true",
+          "style": "fingerprint-inline",
+          "data": "${file://fingerprints.json}"
+        },
+        "build": {
+          "style": "decorator"
+        }
+      }
+    }
+  },
+  "pullrequest": {
+    "configuration": {
+    }
+  },
+  "issue": {
+    "configuration": {
+    }
+  },
+  "comment": {
+    "configuration": {
+    }
+  }
+}

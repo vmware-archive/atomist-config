@@ -1,0 +1,16 @@
+{
+    "repositories": {
+        "spring-rest-seed": [
+            "Docker.+",
+            "Maven.+",
+            "Spring.+",
+            "Travis.+"
+        ],
+        "$default$": [
+            "Docker.+",
+            "Maven.+",
+            "Spring.+",
+            "Travis.+"
+        ]
+    }
+}
